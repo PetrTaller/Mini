@@ -1,0 +1,32 @@
+ENG:
+
+Our calculator is a powerful tool designed to assist you with basic mathematical operations, including addition, subtraction, 
+multiplication, division, square root and square. Whether you're a student, professional, or simply need to perform quick calculations, 
+our calculator has got you covered. 
+
+To open the calculator simply click on the "Calculator.jar" file in the "DATA" folder.
+
+
+The calculater is made to do simple math between two numbers and to use them u need to click the numbers
+and operations you can see in the app ("you cannot use your keyboard"). In addition you can use a history when you are calcualting bigger numbers
+or just cant remember them, to use the history click on the rotating button and there you can acces it. the history has two buttons "Clear" for Clearing
+the whole history and the "-" for deleting the last calculation.
+
+>_< Thanks for using our calculator TALESCORP :)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CZ:
+
+Naše kalkulačka je výkonný nástroj navržený tak, aby vám pomohl se základními matematickými operacemi, včetně sčítání, odčítání,
+násobení, dělení, odmocnina a druhá mocnina. Ať už jste student, profesionál nebo prostě potřebujete provádět rychlé výpočty,
+naše kalkulačka vám pomůže.
+
+Chcete-li otevřít kalkulačku, jednoduše klikněte na soubor "Calculator.jar" ve složce "DATA".
+
+
+Kalkulátor je navržen tak, aby dělal jednoduchou matematiku mezi dvěma čísly a k jejich použití je třeba kliknout na čísla
+a operace, které můžete vidět v aplikaci ("nemůžete používat klávesnici"). Navíc můžete použít historii, když počítáte větší čísla
+nebo si je prostě nepamatujete, pro použití historie klikněte na otočné tlačítko a tam k ní budete mít přístup. historie má dvě tlačítka „Vymazat“ pro vymazání
+celé historie a "-" pro smazání posledního výpočtu.
+
+(; Děkujeme, že používáte naši kalkulačku TALESCORP ~_~
